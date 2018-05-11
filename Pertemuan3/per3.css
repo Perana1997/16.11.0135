@@ -1,0 +1,27 @@
+h1 {
+	color: red
+}
+body {
+	background-color: pink
+}
+p {
+	margin-left: 40px
+	padding: 20px 20px 20px 20px;
+	clear: left;
+
+}
+.suka-suka {
+	color: blue;
+}
+#sama-sama {
+	color: green;
+}
+div {
+	height: 200px;
+	width: 300px;
+	background-color: yellow;
+	margin-left: 20px;
+	padding-left: 20px
+	border-style: dotted;
+	float: left; 
+}
